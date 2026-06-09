@@ -7,7 +7,12 @@ Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this t
     Author     : usuario
 */
 
-@import url('https://googleapis.com');
+/* ==========================================================================
+   CONFIGURACIÓN INICIAL & FUENTES
+   ========================================================================== */
+
+/* IMPORTACIÓN CORRECTA DE GOOGLE FONTS (Poppins con sus variantes de peso) */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap');
 
 :root {
     --main-grad: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
